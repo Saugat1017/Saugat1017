@@ -4,7 +4,7 @@ Computer Science student at UTA focused on building scalable systems, machine le
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 - Build backend systems that handle real data and scale  
 - Develop machine learning models and deploy them in applications  
@@ -13,13 +13,13 @@ Computer Science student at UTA focused on building scalable systems, machine le
 
 ---
 
-## 🧠 Focus Areas
+## Focus Areas
 
 Distributed Systems • Machine Learning • Backend Engineering • Edge AI  
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 Python • Java • SQL • JavaScript  
 FastAPI • Spring Boot • React  
@@ -27,10 +27,10 @@ Kafka • Redis • Docker • AWS
 
 ---
 
-## 🌐 Connect
+##  Connect
 
 Portfolio: https://saugatdev.com  
-LinkedIn: (your link)  
+LinkedIn: https://www.linkedin.com/in/saugat-bhatta-01a595217/  
 Email: saugatbhatta1234@gmail.com  
 
 ---
